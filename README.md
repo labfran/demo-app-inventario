@@ -211,38 +211,9 @@ productFound:boolean = false;
 
 14. Ahora edite 'src/pages/home/home.html' y agregue
 
-/*
-<ion-content padding>
-  Escanear recursos del inventario.
-  <p>
+//<p>
     Cuando encuentre un producto, presione "Escanear", apunte la cámara hacia el código de barras, fíjela en el centro, Y espere que la aplicación busque el recurso. Luego continue.
-  </p>
-  <h1>
-    <button ion-button color="primary" full round (click)="scan()">Escanear</button>
-  </h1><br>
-
-  <ion-card *ngIf="productFound">
-    <ion-card-header>
-      <h2>Código: {{selectedProduct.codigo}}</h2>
-      <h2>Tipo: {{selectedProduct.tipo}}</h2>
-      <h2>Marca/Modelo: {{selectedProduct.marca_modelo}}</h2>
-      <h2>Nº Serie: {{selectedProduct.numero_serie}}</h2>
-    </ion-card-header>
-    <ion-card-content>
-      <ul>
-        <li>Estado: {{selectedProduct.estado}}</li>
-        <li>Responsable: {{selectedProduct.nombre_responsable}}</li>
-        <li>Ubicación: {{selectedProduct.ubicacion}}</li>
-        <li>Fecha Ingreso: Ubicación: {{selectedProduct.fecha_de_ingresao}}</li>
-        <li>Nº Factura: {{selectedProduct.numero_factura_guia}}</li>
-        <li>Procedencia: {{selectedProduct.procedencia}}</li>
-        <li>Fecha de Baja: {{selectedProduct.fecha_de_baja}}</li>
-        <li>Observación: {{selectedProduct.observacion_motivo_de_baja}}</li>
-      </ul>
-    </ion-card-content>
-  </ion-card>
-</ion-content>
-*/
+ //</p>
 
 15. Ahora pruebe su aplicación. 
 
