@@ -211,9 +211,7 @@ productFound:boolean = false;
 
 14. Ahora edite 'src/pages/home/home.html' y agregue
 
-//<p>
-    Cuando encuentre un producto, presione "Escanear", apunte la cámara hacia el código de barras, fíjela en el centro, Y espere que la aplicación busque el recurso. Luego continue.
- //</p>
+Vaya el archivo y copie el código que está entre "<ion-content padding>" y "</ion-content>"
 
 15. Ahora pruebe su aplicación. 
 
