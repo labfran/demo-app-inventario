@@ -211,7 +211,7 @@ productFound:boolean = false;
 
 14. Ahora edite 'src/pages/home/home.html' y agregue
 
-<--!
+/*
 <ion-content padding>
   Escanear recursos del inventario.
   <p>
@@ -242,7 +242,7 @@ productFound:boolean = false;
     </ion-card-content>
   </ion-card>
 </ion-content>
--->
+*/
 
 15. Ahora pruebe su aplicación. 
 
