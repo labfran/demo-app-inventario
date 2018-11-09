@@ -211,7 +211,7 @@ productFound:boolean = false;
 
 14. Ahora edite 'src/pages/home/home.html' y agregue
 
-Vaya el archivo y copie el código que está entre "<ion-content padding>" y "</ion-content>"
+Vaya el archivo y copie el código que está entre "ion-content padding" y "/ion-content"
 
 15. Ahora pruebe su aplicación. 
 
